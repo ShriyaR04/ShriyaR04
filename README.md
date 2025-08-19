@@ -3,8 +3,9 @@
 <h3 align="left"> Graduate, electronics and computer from SRM Institute of science and technology </h3>
 I build things both hardware and software ==> exploring embedded and software domains
 
-- 🌱 I’m currently working on **MovieVerse** – a movie recommendation app  
-- 🔭 I’m also exploring **Spring Boot** and backend development  
+- 🌱 I’m currently working on **MovieVerse** – a movie recommendation app
+- I am willing to learn new frameworks, skills if required, I tend to be well adaptive to fast paced environments.
+- 🔭 I’m also exploring **Spring Boot**, **Python, SQL** and backend development  
 - 💬 Ask me about **Angular, React, JavaScript, C++, DSA**  
 - 📫 How to reach me: [shriyaRajesh75@gmail.com](mailto:shriyaRajesh75@gmail.com)  
 - 🌐 My portfolio: [shriya-portfolio.web.app](https://myportfolio-07-c3464.web.app/)  
